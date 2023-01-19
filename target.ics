@@ -1039,21 +1039,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20230119
-UID:378862-0-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230119
@@ -1104,12 +1089,12 @@ DTSTART;VALUE=DATE:20230126
 DTSTAMP;VALUE=DATE:20230119
 UID:378862-4-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
+DESCRIPTION:「真寻与新朋友」\n\n\n某天，家里蹲的啃老族
+ 绪山真寻一觉醒来发现自己变成了“女孩子”！？正当
+ 真寻不知道镜子里的美少女是自己而陷入混乱的时候，
+ 跳级进入大学的科学家妹妹绪山美波里出现了。她透露
+ 在饮料里加了一种奇怪的药物！\n真寻最近2年一直疯狂
+ 宅家玩小黄游，偶尔不得已
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1223,6 +1208,21 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20230119
 UID:378862-12-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20230119
+UID:378862-0-468754
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
@@ -1450,12 +1450,12 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:364468-14-468754
 CLASS:PUBLIC
-DESCRIPTION:「水乃小路家的男人／会错意的情书」\n\n\n友
- 引高中二年级4班的学生诸星当，堪称史上最好色的男子
- ，虽然有青梅竹马的阿忍，但他仍然四处搭讪，为了美
- 女命都可以不顾。某天外星鬼族入侵地球，鬼族首领要
- 求双方各派出一名代表，通过赛跑决定地球的命运。一
- 向厄运缠身的阿当成了当之无愧的中彩者，鬼族则
+DESCRIPTION:「水乃小路家的男人／麻烦情书」\n\n\n友引高
+ 中二年级4班的学生诸星当，堪称史上最好色的男子，虽
+ 然有青梅竹马的阿忍，但他仍然四处搭讪，为了美女命
+ 都可以不顾。某天外星鬼族入侵地球，鬼族首领要求双
+ 方各派出一名代表，通过赛跑决定地球的命运。一向厄
+ 运缠身的阿当成了当之无愧的中彩者，鬼族则
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
