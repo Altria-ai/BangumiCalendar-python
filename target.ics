@@ -5,6 +5,231 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 1
+DTSTART;VALUE=DATE:20230707
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-1-468754
+CLASS:PUBLIC
+DESCRIPTION:「开学典礼」\n\n\n舞台は名門キンバリー魔法
+ 学校。\nここでは卒業までに２割の生徒が、再起不能や
+ 行方知れず、または発狂した末に死に至る。\nいわゆる
+ 、“魔に呑まれる” という——。\n春、キンバリーに
+ オリバー＝ホーンが入学する。穏やかで理性的だが、
+ そこはかとな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 2
+DTSTART;VALUE=DATE:20230714
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-2-468754
+CLASS:PUBLIC
+DESCRIPTION:「魔法剑」\n\n\n舞台は名門キンバリー魔法学
+ 校。\nここでは卒業までに２割の生徒が、再起不能や行
+ 方知れず、または発狂した末に死に至る。\nいわゆる、
+ “魔に呑まれる” という——。\n春、キンバリーにオ
+ リバー＝ホーンが入学する。穏やかで理性的だが、そ
+ こはかとな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 3
+DTSTART;VALUE=DATE:20230721
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-3-468754
+CLASS:PUBLIC
+DESCRIPTION:「死兵」\n\n\n舞台は名門キンバリー魔法学校
+ 。\nここでは卒業までに２割の生徒が、再起不能や行方
+ 知れず、または発狂した末に死に至る。\nいわゆる、“
+ 魔に呑まれる” という——。\n春、キンバリーにオリ
+ バー＝ホーンが入学する。穏やかで理性的だが、そこ
+ はかとな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 4
+DTSTART;VALUE=DATE:20230728
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-4-468754
+CLASS:PUBLIC
+DESCRIPTION:「圆形斗技场」\n\n\n舞台は名門キンバリー魔
+ 法学校。\nここでは卒業までに２割の生徒が、再起不能
+ や行方知れず、または発狂した末に死に至る。\nいわゆ
+ る、“魔に呑まれる” という——。\n春、キンバリー
+ にオリバー＝ホーンが入学する。穏やかで理性的だが
+ 、そこはかとな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 5
+DTSTART;VALUE=DATE:20230804
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-5-468754
+CLASS:PUBLIC
+DESCRIPTION:「蛇眼」\n\n\n舞台は名門キンバリー魔法学校
+ 。\nここでは卒業までに２割の生徒が、再起不能や行方
+ 知れず、または発狂した末に死に至る。\nいわゆる、“
+ 魔に呑まれる” という——。\n春、キンバリーにオリ
+ バー＝ホーンが入学する。穏やかで理性的だが、そこ
+ はかとな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 6
+DTSTART;VALUE=DATE:20230811
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-6-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 7
+DTSTART;VALUE=DATE:20230818
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-7-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 8
+DTSTART;VALUE=DATE:20230825
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-8-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 9
+DTSTART;VALUE=DATE:20230901
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-9-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 10
+DTSTART;VALUE=DATE:20230908
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-10-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 11
+DTSTART;VALUE=DATE:20230915
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-11-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 12
+DTSTART;VALUE=DATE:20230922
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-12-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 13
+DTSTART;VALUE=DATE:20230929
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-13-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 14
+DTSTART;VALUE=DATE:20231006
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-14-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:七魔剑支配天下 15
+DTSTART;VALUE=DATE:20231013
+DTSTAMP;VALUE=DATE:20230728
+UID:362006-15-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
+ こでは卒業までに２割の生徒が、再起不能や行方知れ
+ ず、または発狂した末に死に至る。\nいわゆる、“魔に
+ 呑まれる” という——。\n春、キンバリーにオリバー
+ ＝ホーンが入学する。穏やかで理性的だが、そこはか
+ とな
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:咒术回战 第二季 1
 DTSTART;VALUE=DATE:20230706
 DTSTAMP;VALUE=DATE:20230728
@@ -751,231 +976,6 @@ DESCRIPTION:「」\n\n\n突如《見えざる帝国》の襲撃を受け
  ことなく戦いに身を投じる。\n\nだが、滅却師の始祖・
  ユーハバッハの命を受けた星十字騎士団の侵攻により
  、\n多くの死神たちが次々と無惨に散っていった。\n卍
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 1
-DTSTART;VALUE=DATE:20230707
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-1-468754
-CLASS:PUBLIC
-DESCRIPTION:「开学典礼」\n\n\n舞台は名門キンバリー魔法
- 学校。\nここでは卒業までに２割の生徒が、再起不能や
- 行方知れず、または発狂した末に死に至る。\nいわゆる
- 、“魔に呑まれる” という——。\n春、キンバリーに
- オリバー＝ホーンが入学する。穏やかで理性的だが、
- そこはかとな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 2
-DTSTART;VALUE=DATE:20230714
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-2-468754
-CLASS:PUBLIC
-DESCRIPTION:「魔法剑」\n\n\n舞台は名門キンバリー魔法学
- 校。\nここでは卒業までに２割の生徒が、再起不能や行
- 方知れず、または発狂した末に死に至る。\nいわゆる、
- “魔に呑まれる” という——。\n春、キンバリーにオ
- リバー＝ホーンが入学する。穏やかで理性的だが、そ
- こはかとな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 3
-DTSTART;VALUE=DATE:20230721
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-3-468754
-CLASS:PUBLIC
-DESCRIPTION:「死兵」\n\n\n舞台は名門キンバリー魔法学校
- 。\nここでは卒業までに２割の生徒が、再起不能や行方
- 知れず、または発狂した末に死に至る。\nいわゆる、“
- 魔に呑まれる” という——。\n春、キンバリーにオリ
- バー＝ホーンが入学する。穏やかで理性的だが、そこ
- はかとな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 4
-DTSTART;VALUE=DATE:20230728
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-4-468754
-CLASS:PUBLIC
-DESCRIPTION:「圆形斗技场」\n\n\n舞台は名門キンバリー魔
- 法学校。\nここでは卒業までに２割の生徒が、再起不能
- や行方知れず、または発狂した末に死に至る。\nいわゆ
- る、“魔に呑まれる” という——。\n春、キンバリー
- にオリバー＝ホーンが入学する。穏やかで理性的だが
- 、そこはかとな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 5
-DTSTART;VALUE=DATE:20230804
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-5-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 6
-DTSTART;VALUE=DATE:20230811
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-6-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 7
-DTSTART;VALUE=DATE:20230818
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-7-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 8
-DTSTART;VALUE=DATE:20230825
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-8-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 9
-DTSTART;VALUE=DATE:20230901
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-9-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 10
-DTSTART;VALUE=DATE:20230908
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-10-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 11
-DTSTART;VALUE=DATE:20230915
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-11-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 12
-DTSTART;VALUE=DATE:20230922
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-12-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 13
-DTSTART;VALUE=DATE:20230929
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-13-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 14
-DTSTART;VALUE=DATE:20231006
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-14-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:七魔剑支配天下 15
-DTSTART;VALUE=DATE:20231013
-DTSTAMP;VALUE=DATE:20230728
-UID:362006-15-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
