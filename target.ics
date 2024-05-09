@@ -429,12 +429,13 @@ DTSTART;VALUE=DATE:20240509
 DTSTAMP;VALUE=DATE:20240509
 UID:444403-6-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n贫苦的侦探镝矢惣助，遇到了操纵魔
- 法的异世界皇女莎拉。惣助逐渐开始了与莎拉的同居生
- 活，莎拉很快就习惯了现代日本。另一方面，跟着莎拉
- 转移来到日本的女骑士莉薇亚，在流浪的同时，意外地
- 度过了快乐生活。积极坚强生活的两个异世界人，不仅
- 影响了惣助，也影
+DESCRIPTION:「宗教家小姐姐与救世主小姐姐 / 女骑士小白
+ 脸 / 女骑士乐手」\n\n\n贫苦的侦探镝矢惣助，遇到了操
+ 纵魔法的异世界皇女莎拉。惣助逐渐开始了与莎拉的同
+ 居生活，莎拉很快就习惯了现代日本。另一方面，跟着
+ 莎拉转移来到日本的女骑士莉薇亚，在流浪的同时，意
+ 外地度过了快乐生活。积极坚强生活的两个异世界人，
+ 不仅影响了惣助，也影
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1177,7 +1178,8 @@ DTSTART;VALUE=DATE:20240509
 DTSTAMP;VALUE=DATE:20240509
 UID:413635-17-468754
 CLASS:PUBLIC
-DESCRIPTION:「一夜攻防战／赌上性命来上课！！」\n\n\n
+DESCRIPTION:「一夜的攻防战／赌上性命，正在上课！！」\n
+ \n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1187,7 +1189,7 @@ DTSTART;VALUE=DATE:20240516
 DTSTAMP;VALUE=DATE:20240509
 UID:413635-18-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
+DESCRIPTION:「爱与勇气的一朵花」\n\n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
