@@ -465,16 +465,16 @@ DTSTART;VALUE=DATE:20240831
 DTSTAMP;VALUE=DATE:20240831
 UID:475354-8-468754
 CLASS:PUBLIC
-DESCRIPTION:「业物语 雅赛萝拉宴饗 其二」\n\n\n高中毕业后
- ，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n但
- 是在历的帮助下，她们的故事还没有结束。\n\n这是在青
- 春中挣扎的她们的前日谭，亦或是后日谈。
+DESCRIPTION:「业物语 第零话 雅赛萝拉宴饗 其二」\n\n\n高
+ 中毕业后，阿良良木历的故事结束了。\n\n这次真的结束
+ 了。\n\n但是在历的帮助下，她们的故事还没有结束。\n\n
+ 这是在青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:物语系列 外传季&怪物季 9
-DTSTART;VALUE=DATE:20240907
+DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240831
 UID:475354-9-468754
 CLASS:PUBLIC
@@ -487,7 +487,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:物语系列 外传季&怪物季 10
-DTSTART;VALUE=DATE:20240914
+DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240831
 UID:475354-10-468754
 CLASS:PUBLIC
@@ -500,9 +500,22 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:物语系列 外传季&怪物季 11
-DTSTART;VALUE=DATE:20240921
+DTSTART;VALUE=DATE:20240928
 DTSTAMP;VALUE=DATE:20240831
 UID:475354-11-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 0
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240831
+UID:475354-0-468754
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
  了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
@@ -1087,12 +1100,12 @@ DTSTART;VALUE=DATE:20240906
 DTSTAMP;VALUE=DATE:20240831
 UID:407573-21-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
+DESCRIPTION:「武斗大会」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
