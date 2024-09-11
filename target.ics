@@ -333,7 +333,7 @@ DTSTART;VALUE=DATE:20240916
 DTSTAMP;VALUE=DATE:20240911
 UID:477207-11-468754
 CLASS:PUBLIC
-DESCRIPTION:「“宣布”失踪了」\n\n\n全世界最多觀看次數
+DESCRIPTION:「【宣布】失踪了」\n\n\n全世界最多觀看次數
  的影片分享平台「NewTube」。\n\n三人組NewTuber「活力姐妹
  」中的「真吉」真咲真希，\n由於直播中的問題行為引發
  炎上，\n最終被頻道開除並趕了出來。\n\n為了絕地反擊
@@ -503,6 +503,45 @@ SUMMARY:物语系列 外传季&怪物季 11
 DTSTART;VALUE=DATE:20240928
 DTSTAMP;VALUE=DATE:20240911
 UID:475354-11-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 12
+DTSTART;VALUE=DATE:20241005
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-12-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 13
+DTSTART;VALUE=DATE:20241012
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-13-468754
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 14
+DTSTART;VALUE=DATE:20241019
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-14-468754
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
  了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
