@@ -160,12 +160,12 @@ DTSTART;VALUE=DATE:20240922
 DTSTAMP;VALUE=DATE:20240915
 UID:479477-11-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
- 赛尔福特，被称为「只擅长学科的书呆子」。\n\n威尔连
- 初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \n\n
- 为了遵守与儿时玩伴──艾尔法莉亚的约定，威尔作为
- 魔导士，以最强称号「至高五杖」为目标，但这条路却
- 遥
+DESCRIPTION:「胆小鬼的真名」\n\n\n里加甸魔法学院六年级
+ 生──威尔・赛尔福特，被称为「只擅长学科的书呆子
+ 」。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院
+ 的吊车尾。 \n\n为了遵守与儿时玩伴──艾尔法莉亚的约
+ 定，威尔作为魔导士，以最强称号「至高五杖」为目标
+ ，但这条路却遥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -478,10 +478,10 @@ DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-9-468754
 CLASS:PUBLIC
-DESCRIPTION:「忍物语 忍Mustard 其一」\n\n\n高中毕业后，阿
- 良良木历的故事结束了。\n\n这次真的结束了。\n\n但是在
- 历的帮助下，她们的故事还没有结束。\n\n这是在青春中
- 挣扎的她们的前日谭，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其一」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -491,10 +491,10 @@ DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-10-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其二」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -504,10 +504,10 @@ DTSTART;VALUE=DATE:20240928
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-11-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其三」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -517,10 +517,10 @@ DTSTART;VALUE=DATE:20241005
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-12-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其四」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -530,10 +530,10 @@ DTSTART;VALUE=DATE:20241012
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-13-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其五」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -543,10 +543,10 @@ DTSTART;VALUE=DATE:20241019
 DTSTAMP;VALUE=DATE:20240915
 UID:475354-14-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「忍物语 第一话 忍Mustard 其六」\n\n\n高中毕业
+ 后，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n
+ 但是在历的帮助下，她们的故事还没有结束。\n\n这是在
+ 青春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
