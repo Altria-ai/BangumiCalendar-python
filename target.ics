@@ -100,25 +100,12 @@ DTSTART;VALUE=DATE:20241123
 DTSTAMP;VALUE=DATE:20241123
 UID:358801-7-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n《英雄联盟：双城之战》作为拳头游
- 戏推出的英雄联盟的首部动画剧集，第一季荣获九座安
- 妮奖及包括“最佳动画剧集”在内的四项艾美奖。\n《双
- 城之战》的故事将在第二季迎来尾声。金克丝对议会的
- 袭击，揭开了皮尔特沃夫和祖安矛盾急剧恶化的序幕。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:英雄联盟：双城之战 第二季 8
-DTSTART;VALUE=DATE:20241123
-DTSTAMP;VALUE=DATE:20241123
-UID:358801-8-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n《英雄联盟：双城之战》作为拳头游
- 戏推出的英雄联盟的首部动画剧集，第一季荣获九座安
- 妮奖及包括“最佳动画剧集”在内的四项艾美奖。\n《双
- 城之战》的故事将在第二季迎来尾声。金克丝对议会的
- 袭击，揭开了皮尔特沃夫和祖安矛盾急剧恶化的序幕。
+DESCRIPTION:「假装这次第一次」\n\n\n《英雄联盟：双城之
+ 战》作为拳头游戏推出的英雄联盟的首部动画剧集，第
+ 一季荣获九座安妮奖及包括“最佳动画剧集”在内的四
+ 项艾美奖。\n《双城之战》的故事将在第二季迎来尾声。
+ 金克丝对议会的袭击，揭开了皮尔特沃夫和祖安矛盾急
+ 剧恶化的序幕。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -128,11 +115,12 @@ DTSTART;VALUE=DATE:20241123
 DTSTAMP;VALUE=DATE:20241123
 UID:358801-9-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n《英雄联盟：双城之战》作为拳头游
- 戏推出的英雄联盟的首部动画剧集，第一季荣获九座安
- 妮奖及包括“最佳动画剧集”在内的四项艾美奖。\n《双
- 城之战》的故事将在第二季迎来尾声。金克丝对议会的
- 袭击，揭开了皮尔特沃夫和祖安矛盾急剧恶化的序幕。
+DESCRIPTION:「指甲缝里的泥」\n\n\n《英雄联盟：双城之战
+ 》作为拳头游戏推出的英雄联盟的首部动画剧集，第一
+ 季荣获九座安妮奖及包括“最佳动画剧集”在内的四项
+ 艾美奖。\n《双城之战》的故事将在第二季迎来尾声。金
+ 克丝对议会的袭击，揭开了皮尔特沃夫和祖安矛盾急剧
+ 恶化的序幕。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -640,9 +628,10 @@ DTSTART;VALUE=DATE:20241130
 DTSTAMP;VALUE=DATE:20241123
 UID:457326-9-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
- 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
- たして、黒崎一護が\nたどり着くのは――。
+DESCRIPTION:「不要追逐影子」\n\n\nまさしく「最終決戦」
+ にふさわしい実力派スタッフ陣で挑む、ファイナル・
+ シリーズ。\nはたして、黒崎一護が\nたどり着くのは―
+ ―。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
