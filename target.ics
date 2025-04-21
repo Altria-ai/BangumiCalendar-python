@@ -25,22 +25,7 @@ DTSTART;VALUE=DATE:20250412
 DTSTAMP;VALUE=DATE:20250421
 UID:506258-2-468754
 CLASS:PUBLIC
-DESCRIPTION:「乡下大叔，被魔法师惊呆了」\n\n\n片田舎で
- 道場を構えるしがない剣術師範の中年、ベリル・ガー
- デナント。\n剣士としての頂を目指した日々は遠く過ぎ
- 去り、自身の実力に気持ちの折り合いをつけてのんび
- り過ごしていた彼のもとへ\n今や王国騎士団長にまで出
- 世した元弟子の一人、アリューシア
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:乡下大叔成为剑圣 3
-DTSTART;VALUE=DATE:20250419
-DTSTAMP;VALUE=DATE:20250421
-UID:506258-3-468754
-CLASS:PUBLIC
-DESCRIPTION:「乡下大叔，抵御猛烈攻击」\n\n\n片田舎で道
+DESCRIPTION:「乡下大叔，震惊于魔法师」\n\n\n片田舎で道
  場を構えるしがない剣術師範の中年、ベリル・ガーデ
  ナント。\n剣士としての頂を目指した日々は遠く過ぎ去
  り、自身の実力に気持ちの折り合いをつけてのんびり
@@ -50,17 +35,32 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:乡下大叔成为剑圣 3
+DTSTART;VALUE=DATE:20250419
+DTSTAMP;VALUE=DATE:20250421
+UID:506258-3-468754
+CLASS:PUBLIC
+DESCRIPTION:「乡下大叔，化解猛攻」\n\n\n片田舎で道場を
+ 構えるしがない剣術師範の中年、ベリル・ガーデナン
+ ト。\n剣士としての頂を目指した日々は遠く過ぎ去り、
+ 自身の実力に気持ちの折り合いをつけてのんびり過ご
+ していた彼のもとへ\n今や王国騎士団長にまで出世した
+ 元弟子の一人、アリューシア
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:乡下大叔成为剑圣 4
 DTSTART;VALUE=DATE:20250426
 DTSTAMP;VALUE=DATE:20250421
 UID:506258-4-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n片田舎で道場を構えるしがない剣術
- 師範の中年、ベリル・ガーデナント。\n剣士としての頂
- を目指した日々は遠く過ぎ去り、自身の実力に気持ち
- の折り合いをつけてのんびり過ごしていた彼のもとへ\n
- 今や王国騎士団長にまで出世した元弟子の一人、アリ
- ューシア
+DESCRIPTION:「乡下大叔，与怪物共飞翔」\n\n\n片田舎で道
+ 場を構えるしがない剣術師範の中年、ベリル・ガーデ
+ ナント。\n剣士としての頂を目指した日々は遠く過ぎ去
+ り、自身の実力に気持ちの折り合いをつけてのんびり
+ 過ごしていた彼のもとへ\n今や王国騎士団長にまで出世
+ した元弟子の一人、アリューシア
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
