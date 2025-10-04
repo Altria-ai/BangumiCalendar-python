@@ -5,436 +5,170 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 1
-DTSTART;VALUE=DATE:20250704
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-1-468754
-CLASS:PUBLIC
-DESCRIPTION:「同期来访，提出难题」\n\n\n人類は詠唱をな
- くして、魔術を使うことができない。 \nところが、そ
- の不可能を可能にしてしまった、ひとりの少女がいた
- 。 \n\nリディル王国における魔術師の頂点・七賢人がひ
- とり〈沈黙の魔女〉モニカ・エヴァレット。\n史上、初
- めて無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 2
-DTSTART;VALUE=DATE:20250711
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-2-468754
-CLASS:PUBLIC
-DESCRIPTION:「向前迈步」\n\n\n人類は詠唱をなくして、魔
- 術を使うことができない。 \nところが、その不可能を
- 可能にしてしまった、ひとりの少女がいた。 \n\nリディ
- ル王国における魔術師の頂点・七賢人がひとり〈沈黙
- の魔女〉モニカ・エヴァレット。\n史上、初めて無詠唱
- 魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 3
-DTSTART;VALUE=DATE:20250718
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-3-468754
-CLASS:PUBLIC
-DESCRIPTION:「赛莲蒂亚学园学生会」\n\n\n人類は詠唱をな
- くして、魔術を使うことができない。 \nところが、そ
- の不可能を可能にしてしまった、ひとりの少女がいた
- 。 \n\nリディル王国における魔術師の頂点・七賢人がひ
- とり〈沈黙の魔女〉モニカ・エヴァレット。\n史上、初
- めて無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 4
-DTSTART;VALUE=DATE:20250725
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-4-468754
-CLASS:PUBLIC
-DESCRIPTION:「完美的术式」\n\n\n人類は詠唱をなくして、
- 魔術を使うことができない。 \nところが、その不可能
- を可能にしてしまった、ひとりの少女がいた。 \n\nリデ
- ィル王国における魔術師の頂点・七賢人がひとり〈沈
- 黙の魔女〉モニカ・エヴァレット。\n史上、初めて無詠
- 唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 5
-DTSTART;VALUE=DATE:20250801
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-5-468754
-CLASS:PUBLIC
-DESCRIPTION:「沉默魔女的冒险」\n\n\n人類は詠唱をなくし
- て、魔術を使うことができない。 \nところが、その不
- 可能を可能にしてしまった、ひとりの少女がいた。 \n\n
- リディル王国における魔術師の頂点・七賢人がひとり
- 〈沈黙の魔女〉モニカ・エヴァレット。\n史上、初めて
- 無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 6
-DTSTART;VALUE=DATE:20250808
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-6-468754
-CLASS:PUBLIC
-DESCRIPTION:「场合不宜的一杯」\n\n\n人類は詠唱をなくし
- て、魔術を使うことができない。 \nところが、その不
- 可能を可能にしてしまった、ひとりの少女がいた。 \n\n
- リディル王国における魔術師の頂点・七賢人がひとり
- 〈沈黙の魔女〉モニカ・エヴァレット。\n史上、初めて
- 無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 7
-DTSTART;VALUE=DATE:20250815
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-7-468754
-CLASS:PUBLIC
-DESCRIPTION:「邪恶大小姐」\n\n\n人類は詠唱をなくして、
- 魔術を使うことができない。 \nところが、その不可能
- を可能にしてしまった、ひとりの少女がいた。 \n\nリデ
- ィル王国における魔術師の頂点・七賢人がひとり〈沈
- 黙の魔女〉モニカ・エヴァレット。\n史上、初めて無詠
- 唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 8
-DTSTART;VALUE=DATE:20250822
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-8-468754
-CLASS:PUBLIC
-DESCRIPTION:「我的职责」\n\n\n人類は詠唱をなくして、魔
- 術を使うことができない。 \nところが、その不可能を
- 可能にしてしまった、ひとりの少女がいた。 \n\nリディ
- ル王国における魔術師の頂点・七賢人がひとり〈沈黙
- の魔女〉モニカ・エヴァレット。\n史上、初めて無詠唱
- 魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 9
-DTSTART;VALUE=DATE:20250829
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-9-468754
-CLASS:PUBLIC
-DESCRIPTION:「说不出口的秘密」\n\n\n人類は詠唱をなくし
- て、魔術を使うことができない。 \nところが、その不
- 可能を可能にしてしまった、ひとりの少女がいた。 \n\n
- リディル王国における魔術師の頂点・七賢人がひとり
- 〈沈黙の魔女〉モニカ・エヴァレット。\n史上、初めて
- 無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 10
-DTSTART;VALUE=DATE:20250912
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-10-468754
-CLASS:PUBLIC
-DESCRIPTION:「巴尼·琼斯与无言的艾瓦雷特」\n\n\n人類は詠
- 唱をなくして、魔術を使うことができない。 \nところ
- が、その不可能を可能にしてしまった、ひとりの少女
- がいた。 \n\nリディル王国における魔術師の頂点・七賢
- 人がひとり〈沈黙の魔女〉モニカ・エヴァレット。\n史
- 上、初めて無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 11
-DTSTART;VALUE=DATE:20250919
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-11-468754
-CLASS:PUBLIC
-DESCRIPTION:「我的朋友」\n\n\n人類は詠唱をなくして、魔
- 術を使うことができない。 \nところが、その不可能を
- 可能にしてしまった、ひとりの少女がいた。 \n\nリディ
- ル王国における魔術師の頂点・七賢人がひとり〈沈黙
- の魔女〉モニカ・エヴァレット。\n史上、初めて無詠唱
- 魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 12
-DTSTART;VALUE=DATE:20250926
-DTSTAMP;VALUE=DATE:20251004
-UID:506677-12-468754
-CLASS:PUBLIC
-DESCRIPTION:「莫妮卡，变成不良少女」\n\n\n人類は詠唱を
- なくして、魔術を使うことができない。 \nところが、
- その不可能を可能にしてしまった、ひとりの少女がい
- た。 \n\nリディル王国における魔術師の頂点・七賢人が
- ひとり〈沈黙の魔女〉モニカ・エヴァレット。\n史上、
- 初めて無詠唱魔術を生
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 13
+SUMMARY:东岛丹三郎想成为假面骑士 1
 DTSTART;VALUE=DATE:20251004
 DTSTAMP;VALUE=DATE:20251004
-UID:506677-13-468754
+UID:542203-1-468754
 CLASS:PUBLIC
-DESCRIPTION:「书的价值」\n\n\n人類は詠唱をなくして、魔
- 術を使うことができない。 \nところが、その不可能を
- 可能にしてしまった、ひとりの少女がいた。 \n\nリディ
- ル王国における魔術師の頂点・七賢人がひとり〈沈黙
- の魔女〉モニカ・エヴァレット。\n史上、初めて無詠唱
- 魔術を生
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silent Witch 沉默魔女的秘密 0
-DTSTART;VALUE=DATE:20250905
+SUMMARY:东岛丹三郎想成为假面骑士 2
+DTSTART;VALUE=DATE:20251011
 DTSTAMP;VALUE=DATE:20251004
-UID:506677-0-468754
+UID:542203-2-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n人類は詠唱をなくして、魔術を使う
- ことができない。 \nところが、その不可能を可能にし
- てしまった、ひとりの少女がいた。 \n\nリディル王国に
- おける魔術師の頂点・七賢人がひとり〈沈黙の魔女〉
- モニカ・エヴァレット。\n史上、初めて無詠唱魔術を生
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 1
-DTSTART;VALUE=DATE:20250718
+SUMMARY:东岛丹三郎想成为假面骑士 3
+DTSTART;VALUE=DATE:20251018
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-1-468754
+UID:542203-3-468754
 CLASS:PUBLIC
-DESCRIPTION:「色情条例」\n\n\n这里是四季如夏的孤岛「青
- 蓝岛」。\n在这座岛出生的橘淳之介，以父母过世为契机
- ，与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了防
- 止人口继续减少而实施了《超色情条例》，岛上因此到
- 处都允许及推荐人进行色情爱爱（打炮）。要是拒绝这
- 种「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 2
-DTSTART;VALUE=DATE:20250725
+SUMMARY:东岛丹三郎想成为假面骑士 4
+DTSTART;VALUE=DATE:20251025
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-2-468754
+UID:542203-4-468754
 CLASS:PUBLIC
-DESCRIPTION:「救性主」\n\n\n这里是四季如夏的孤岛「青蓝
- 岛」。\n在这座岛出生的橘淳之介，以父母过世为契机，
- 与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了防止
- 人口继续减少而实施了《超色情条例》，岛上因此到处
- 都允许及推荐人进行色情爱爱（打炮）。要是拒绝这种
- 「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 3
-DTSTART;VALUE=DATE:20250801
+SUMMARY:东岛丹三郎想成为假面骑士 5
+DTSTART;VALUE=DATE:20251101
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-3-468754
+UID:542203-5-468754
 CLASS:PUBLIC
-DESCRIPTION:「午后腰震雨」\n\n\n这里是四季如夏的孤岛「
- 青蓝岛」。\n在这座岛出生的橘淳之介，以父母过世为契
- 机，与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了
- 防止人口继续减少而实施了《超色情条例》，岛上因此
- 到处都允许及推荐人进行色情爱爱（打炮）。要是拒绝
- 这种「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 4
-DTSTART;VALUE=DATE:20250808
+SUMMARY:东岛丹三郎想成为假面骑士 6
+DTSTART;VALUE=DATE:20251108
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-4-468754
+UID:542203-6-468754
 CLASS:PUBLIC
-DESCRIPTION:「孕动会」\n\n\n这里是四季如夏的孤岛「青蓝
- 岛」。\n在这座岛出生的橘淳之介，以父母过世为契机，
- 与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了防止
- 人口继续减少而实施了《超色情条例》，岛上因此到处
- 都允许及推荐人进行色情爱爱（打炮）。要是拒绝这种
- 「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 5
-DTSTART;VALUE=DATE:20250815
+SUMMARY:东岛丹三郎想成为假面骑士 7
+DTSTART;VALUE=DATE:20251115
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-5-468754
+UID:542203-7-468754
 CLASS:PUBLIC
-DESCRIPTION:「反交配势力」\n\n\n这里是四季如夏的孤岛「
- 青蓝岛」。\n在这座岛出生的橘淳之介，以父母过世为契
- 机，与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了
- 防止人口继续减少而实施了《超色情条例》，岛上因此
- 到处都允许及推荐人进行色情爱爱（打炮）。要是拒绝
- 这种「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 6
-DTSTART;VALUE=DATE:20250822
+SUMMARY:东岛丹三郎想成为假面骑士 8
+DTSTART;VALUE=DATE:20251122
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-6-468754
+UID:542203-8-468754
 CLASS:PUBLIC
-DESCRIPTION:「不插入虎穴焉得虎子」\n\n\n这里是四季如夏
- 的孤岛「青蓝岛」。\n在这座岛出生的橘淳之介，以父母
- 过世为契机，与妹妹橘麻沙音一起回到了岛上。然而青
- 蓝岛为了防止人口继续减少而实施了《超色情条例》，
- 岛上因此到处都允许及推荐人进行色情爱爱（打炮）。
- 要是拒绝这种「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 7
-DTSTART;VALUE=DATE:20250829
+SUMMARY:东岛丹三郎想成为假面骑士 9
+DTSTART;VALUE=DATE:20251129
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-7-468754
+UID:542203-9-468754
 CLASS:PUBLIC
-DESCRIPTION:「性人礼」\n\n\n这里是四季如夏的孤岛「青蓝
- 岛」。\n在这座岛出生的橘淳之介，以父母过世为契机，
- 与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了防止
- 人口继续减少而实施了《超色情条例》，岛上因此到处
- 都允许及推荐人进行色情爱爱（打炮）。要是拒绝这种
- 「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 8
-DTSTART;VALUE=DATE:20250905
+SUMMARY:东岛丹三郎想成为假面骑士 10
+DTSTART;VALUE=DATE:20251206
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-8-468754
+UID:542203-10-468754
 CLASS:PUBLIC
-DESCRIPTION:「伙棒」\n\n\n这里是四季如夏的孤岛「青蓝岛
- 」。\n在这座岛出生的橘淳之介，以父母过世为契机，与
- 妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了防止人
- 口继续减少而实施了《超色情条例》，岛上因此到处都
- 允许及推荐人进行色情爱爱（打炮）。要是拒绝这种「
- 性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 9
-DTSTART;VALUE=DATE:20250912
+SUMMARY:东岛丹三郎想成为假面骑士 11
+DTSTART;VALUE=DATE:20251213
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-9-468754
+UID:542203-11-468754
 CLASS:PUBLIC
-DESCRIPTION:「嗯齁 -羁绊-」\n\n\n这里是四季如夏的孤岛「
- 青蓝岛」。\n在这座岛出生的橘淳之介，以父母过世为契
- 机，与妹妹橘麻沙音一起回到了岛上。然而青蓝岛为了
- 防止人口继续减少而实施了《超色情条例》，岛上因此
- 到处都允许及推荐人进行色情爱爱（打炮）。要是拒绝
- 这种「性产行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:拔作岛 10
-DTSTART;VALUE=DATE:20250919
+SUMMARY:东岛丹三郎想成为假面骑士 12
+DTSTART;VALUE=DATE:20251220
 DTSTAMP;VALUE=DATE:20251004
-UID:477825-10-468754
+UID:542203-12-468754
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:拔作岛 11
-DTSTART;VALUE=DATE:20250926
-DTSTAMP;VALUE=DATE:20251004
-UID:477825-11-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:拔作岛 0
-DTSTART;VALUE=DATE:20251126
-DTSTAMP;VALUE=DATE:20251004
-UID:477825-0-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:拔作岛 0
-DTSTART;VALUE=DATE:20251126
-DTSTAMP;VALUE=DATE:20251004
-UID:477825-0-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:拔作岛 0
-DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATE:20251004
-UID:477825-0-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:拔作岛 0
-DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATE:20251004
-UID:477825-0-468754
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这里是四季如夏的孤岛「青蓝岛」。\n
- 在这座岛出生的橘淳之介，以父母过世为契机，与妹妹
- 橘麻沙音一起回到了岛上。然而青蓝岛为了防止人口继
- 续减少而实施了《超色情条例》，岛上因此到处都允许
- 及推荐人进行色情爱爱（打炮）。要是拒绝这种「性产
- 行为」，甚至
+DESCRIPTION:「」\n\n\n「いくぞ、ショッカー! ! ! ! 」\n40歳
+ になっても本気で仮面ライダーになろうとしていた東
+ 島丹三郎(とうじまたんざぶろう)。だが、その夢を諦め
+ かけた時、世間を騒がす「偽ショッカー」強盗事件に
+ 巻き込まれ…。\n『エアマスター』『ハチワン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
